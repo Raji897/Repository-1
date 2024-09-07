@@ -1,2 +1,0 @@
-Welcome to gitHub
-sample2.txt has been modified
