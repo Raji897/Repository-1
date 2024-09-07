@@ -1,1 +1,2 @@
 sample.txt has been created
+new line in sample.txt
